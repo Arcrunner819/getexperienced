@@ -1,0 +1,78 @@
+New team member assignments for those who aren't on a team yet are coming next.  If you opted out of the class, you will be removed from the emails after this one.
+
+Here are some homework question for you to work on.  I will create a video on Thursday going over how to do the tasks, as well as answering questions.  
+
+Do the homework question, do the task, read the readings and take notes.  I will send out a quiz on Monday.
+
+Also, this is a reminder to purchase "The Self Taught Programmer" if you haven't done so already:
+http://theselftaughtprogrammer.io/ - Must Purchase
+
+We will be using this book in our studies.
+
+Homework questions
+
+The theme for these question is definitions.  You have to know what the things are before you can use them.  
+1.	What is a software engineer? What do they do?
+2.	How do you become a software engineer?
+3.	What are the parts of a web application?
+4.	What technologies are used in a web application?
+5.	What is HTTP?
+6.	How do you improve at programming?
+7.	What is HTML?
+8.	What is CSS?
+9.	What is Javascript?
+10.	What is Linux?
+11.	What is CentOS
+12.	What is SCRUM?
+13.	What is Agile?
+14.	What is QA?
+15.	What is Python?
+16.	What is Django?
+17.	What are web frameworks for?
+18.	What is MySQL?
+19.	What method was used before agile?  What were the downsides?
+20.	What is web accessibility?
+21.	What are design patterns?
+22.	What is Git?
+23.	What is Github?
+24.	What is the command line?
+25.	What is a shell script?
+26.	What is jQuery?
+27.	What is Angular?
+
+
+Tasks
+
+Do your best to try and complete these by Thursday.  I will show you how to complete these on Thursday.  There will be no code reviews this week.
+
+
+1.  Server Administration and Setup
+
+Sign up for AWS account and try to create an EC2 instance running CentOS
+
+2.  Front End Developer 1 (HTML/CSS)
+
+Create a 2 column page with a header, using Bootstrap.  Have links in the left column and a picture with text paragraphs in the right column.  Make the right column 75% width of the page and the left column 25%.  Have a logo in the header the spans the entire page
+
+3.  Front End Developer 2 (Javascript/jQuery/Angular/..)
+
+Create an html page with a button in the middle.  When that button is clicked, alert a message that says "Clicked" and append the word clicked to a div under the button
+
+4.  Backend Developer (Python/Django)
+
+Install Python and Django to your local computer. Have it say hello world on the home page of the django app
+
+5.  Database Administrator
+
+Install Mysql to your local computer.  Create a database with 1 table.  That table should have 3 columns: id, name, created data.  The table should be called names.  Insert 4 names into that table with a sql query and create a query to retrieve just the names from the database
+
+6.  SCRUM Master / System Architect / Project Manager (will touch a little of all the above)
+
+Find out what design pattern Django uses and describe it.  Give and example in pseudo code. 
+
+
+Reach out anytime if you have questions
+
+Aaron Bell
+aaron@getexperienced.co
+________________________________________
